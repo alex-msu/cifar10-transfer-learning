@@ -15,11 +15,14 @@ Se utilizó el dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), 
 
 ## ⚙️ Tecnologías utilizadas
 
-- Python 3
-- TensorFlow / Keras
-- NumPy
-- Matplotlib
-- scikit-learn
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+[//]: # "- Python 3"
+[//]: # "- TensorFlow / Keras"
+[//]: # "- NumPy"
+[//]: # "- Matplotlib"
+[//]: # "- scikit-learn"
 
 ---
 
