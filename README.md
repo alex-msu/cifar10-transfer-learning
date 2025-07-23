@@ -46,7 +46,7 @@ Se utilizó el dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), 
 ### 1. Efecto del Learning Rate
 ![Comparación de learning rates](results/comparacion_lr.png)
 
-Reducir la tasa de aprendizaje (`lr=0.0001`) mejoró la estabilidad pero no superó el rendimiento del modelo base con `lr=0.001`.
+Reducir la tasa de aprendizaje (`lr=0.0001`) exacerbó la inestabilidad y no superó el rendimiento del modelo base con `lr=0.001`.
 
 ---
 
